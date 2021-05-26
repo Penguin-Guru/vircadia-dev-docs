@@ -1,3 +1,5 @@
+const { path } = require('@vuepress/utils')
+
 const { productName } = require('../../package')
 const { description } = require('../../package')
 const { repository } = require('../../package')
